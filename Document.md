@@ -106,4 +106,4 @@ Documenting the process in Markdown
 ---
 
 ✅ Task completed Sucessfuly
-Repository lik: https://github.com/osuruchaitanya/Task-4-Devops-project-.git
+Repository link: https://github.com/osuruchaitanya/Task-4-Devops-project-.git
